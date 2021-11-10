@@ -1,0 +1,130 @@
+body{
+    font-family: 'Nunito';
+    background-color: #082032;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/002/597/581/original/abstract-seamless-zig-zag-line-pattern-on-dark-blue-background-with-copy-space-modern-serrated-texture-design-you-can-use-for-cover-poster-banner-web-flyer-landing-page-print-ad-eps10-vector.jpg');
+    background-repeat: no-repeat, repeat;
+    background-position: center; 
+    background-size: cover;
+   
+}
+
+h2{
+    font-size: 18px;
+    padding: 5px 10px;
+    color: yellowgreen;
+}
+
+hr{
+    border: 1px dotted;
+    color: gold;
+}
+
+select{
+    background-color: #334756;
+    color: white;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    -webkit-padding-end: 20px;
+    -moz-padding-end: 20px;
+    -webkit-padding-start: 2px;
+    -moz-padding-start: 2px;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 1px solid #AAA;
+    border-radius: 2px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    font-size: inherit;
+    margin: 0;
+    overflow: hidden;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align-last: right;
+    padding-right: 62px;
+    width: 200px;
+    
+}
+
+#num_in{
+    max-width: 600px;
+    margin: 30px auto;
+    border: 1px solid #ddd;
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.05);
+    border-radius: 2px;
+    border-color: gold;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(8, 32, 50,  0.6);
+}
+#vaccine{
+    margin-bottom: 10px;
+}
+#window{
+    height: 300px;
+    overflow: auto;
+    background: #f9f9f9;
+}
+
+#out p{
+    padding: 14px 0px;
+    margin: 0 20px;
+    border-bottom: 1px solid #e9e9e9;
+    color: #555;
+    text-align: center;
+}
+
+#feedback p{
+    color: #aaa;
+    padding: 14px 0px;
+    margin: 0 20px;
+}
+
+#out strong{
+    color: #575ed8;
+    margin: 30px auto;
+    align-self: center;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 20px;
+    color: yellowgreen;
+}
+
+#title{
+    text-align: center;
+    color: gold;
+}
+
+#title{
+    text-align: center;
+    color: gold;
+}
+
+label{
+    box-sizing: border-box;
+    display: block;
+    padding: 10px 20px;
+}
+
+input{
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background: #eee;
+    border: 0;
+    display: block;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid #eee;
+    font-family: Nunito;
+    font-size: 16px;
+}
+
+button{
+    background: #2C394B;
+    color: #fff;
+    font-size: 18px;
+    border: 0;
+    padding: 12px 0;
+    width: 100%;
+    border-radius: 0 0 2px 2px;
+}
